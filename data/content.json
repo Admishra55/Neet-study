@@ -1,0 +1,47 @@
+{
+  "batches": [
+    {
+      "name": "Manthan 2026",
+      "banner": "",
+      "subjects": [
+        {
+          "name": "Physics",
+          "chapters": []
+        },
+        {
+          "name": "Chemistry",
+          "chapters": []
+        },
+        {
+          "name": "Zoology",
+          "chapters": [
+            {
+              "name": "Breathing",
+              "items": [
+                {
+                  "type": "playlist",
+                  "title": "Zoology \u2013 Full Playlist 1",
+                  "videoLink": "https://youtube.com/playlist?list=PLyUbO6lkl5P35c0gq-391jsKryBs79zGW&si=EauLFZwsvuHYdcMp"
+                },
+                {
+                  "type": "playlist",
+                  "title": "Zoology \u2013 Breathing Playlist",
+                  "videoLink": "https://youtube.com/playlist?list=PLyUbO6lkl5P11dYnAjYrMIw8HqyyZlDzI&si=ggJyfhShGWhFPclx"
+                },
+                {
+                  "type": "pdf",
+                  "title": "Breathing \u2013 Notes (Sample)",
+                  "pdfLink": "https://drive.google.com/file/d/1NT7t0gR1pWz2MZ0QG8y2d2z1c5GqF0PQ/view?usp=sharing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Botany",
+          "chapters": []
+        }
+      ]
+    }
+  ]
+}
